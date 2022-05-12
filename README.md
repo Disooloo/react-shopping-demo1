@@ -1,6 +1,6 @@
 # project status
 
-![](/info/HR_Department_laravel.gif)
+![](/info/react-shopping-demo1.gif)
 
 # Getting Started with Create React App
 
